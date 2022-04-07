@@ -10,7 +10,7 @@ Deliverable 2: A written report on the UFO analysis (README.md)
 
 ## Analysis
 
-## How to Perform a Search
+### How to Perform a Search
 This webpage provides a summary of UFO sightings along with the abiliy to search for certain sightings by type in either a date, city, state, country or shape.
 
 ### Search Options
@@ -23,7 +23,7 @@ You can do this with each of the different fields.
 
 ## Summary
 
-## Drawback
+### Drawback
 One of the drawbacks I noticed was that it does not options for each of the search options.
 Here is what I think they could do to fix that:
 - Provide a drop down of the available options for each of the search fields so you do not waste time type in random cities.
